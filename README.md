@@ -5,4 +5,4 @@ I'm a Computer Engineer. I am curious and constantly working to develop myself i
 [![Gmail Badge](https://img.shields.io/badge/-celal.aygar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celal.aygar@gmail.com)](mailto:celal.aygar@gmail.com)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celalaygar" alt="celalaygar" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celalaygar&show_icons=true&locale=en" alt="celalaygar" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celalaygar&" alt="celalaygar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celalaygar&" alt="celalaygar" /></p>
