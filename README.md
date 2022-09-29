@@ -36,4 +36,3 @@ I'm a Computer Engineer. I am curious and constantly working to develop myself i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="ORACLE" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celalaygar&" alt="celalaygar" /></p>
