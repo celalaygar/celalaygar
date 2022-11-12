@@ -28,7 +28,6 @@ I'm a Computer Engineer. I am curious and constantly working to develop myself i
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="HTML5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="CSS3" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" alt="Reactjs" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" alt="VUEJS" />
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30" alt="Angular" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" alt="Bootstrap" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="30" height="30" alt="MaterialUI" />
