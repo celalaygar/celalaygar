@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=2000&color=96271DC6&multiline=true&width=871&lines=Hi.+I'm+CULLO.+I'm+a+Computer+Engineer.)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=2000&color=96271DC6&multiline=true&width=871&lines=Hi.+I'm+C%C3%9CLLO.+I'm+a+Computer+Engineer.)](https://git.io/typing-svg) 
 
 I'm a Computer Engineer. I am curious and constantly working to develop myself in the development. Also I am constantly working to make life easier and trying to find solutions to the common problems of people.I’m currently working on Java, React, Git. I have experience with pure javascript React js, Angular 6+.  I’m currently learning client side technologies in general.
 
