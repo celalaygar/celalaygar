@@ -1,4 +1,6 @@
-### Hi EveryBody 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&color=2B40E3E3&center=true&vCenter=true&width=665&lines=Hi.+I'm+Celal+Aygar.+I'm+a+Computer+Engineer." alt="Typing SVG" /></a>
+
+
 I'm a Computer Engineer. I am curious and constantly working to develop myself in the development. Also I am constantly working to make life easier and trying to find solutions to the common problems of people.I’m currently working on Java, React, Git. I have experience with pure javascript React js, Angular 6+.  I’m currently learning client side technologies in general.
 
 [![Linkedin Badge](https://img.shields.io/badge/-celalaygar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celalaygar/)](https://www.linkedin.com/in/celalaygar/) 
