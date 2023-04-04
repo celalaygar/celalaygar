@@ -1,16 +1,11 @@
-<table style='border:none'>
-  <tr style='border:none'>
-    <td style='border:none'>
+
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=800&pause=1000&color=CE3628FE&  background=FFFFFF00&multiline=true&width=871&height=50&lines=Hi.+I'm+C%C3%9CLLO.++++%40celalaygar" alt="Typing SVG" /></a> 
-    </td>
-    <td style='border:none'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=800&pause=1000&color=CE3628FE&  background=FFFFFF00&multiline=true&width=871&height=50&lines=Hi.+I'm+C%C3%9CLLO.++++%40celalaygar" alt="Typing SVG" />
+  </a> 
+
 <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/12014524?theme=default" alt="user:12014524's SO profile">
 </a>
-    </td>
-  </tr>
-  </table>
 <br/>
 I'm a Computer Engineer. I am curious and constantly working to develop myself. Also I am constantly working to make life easier and trying to find solutions to the common problems of people.I’m currently working on Java, React, Git. I have experience with pure javascript React js. I’m currently learning client side technologies in general.
 
