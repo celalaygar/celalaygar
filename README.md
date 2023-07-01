@@ -1,5 +1,5 @@
 ### Hello there; welcome 👋🏾
-I'm a Computer Engineer. I am curious and constantly working to develop myself. Also I am constantly working to make life easier and trying to find solutions to the common problems of people. I’m currently learning server side and client side technologies in general.
+I'm Celal Aygar and a Computer Engineer. I am curious and constantly working to develop myself. Also I am constantly working to make life easier and trying to find solutions to the common problems of people. I’m currently learning server side and client side technologies in general.
  
 #### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-celalaygar-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celalaygar/)](https://www.linkedin.com/in/celalaygar/)
