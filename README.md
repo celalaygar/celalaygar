@@ -1,4 +1,4 @@
-### Hello there; welcome 👋🏾
+### Hello there; welcome 👋🏾  I'm a Full Stack Developer & Java Developer
 
 I'm Celal Aygar and a Computer Engineer. I am curious and constantly working to develop myself.
 Also I am constantly working to make life easier and trying to find solutions to the common problems of people.
