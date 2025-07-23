@@ -4,8 +4,6 @@ Hello! I’m Celal Aygar, a Full Stack Java Developer with over 5 years of exper
 
 My focus is delivering complete solutions using Java Spring Boot for the backend and React/Next.js with Tailwind CSS for the frontend. I bring a holistic view to software engineering from database design to responsive UI.
 
-Whether you need a high-performance REST API or a beautiful user dashboard, I’ve got you covered with efficient, secure, and scalable code.
-
 #### My Web Page:  <a href="https://celalaygar.github.io/" target="_blank" > @celalaygar  </a>
 #### Connect with me:
 
